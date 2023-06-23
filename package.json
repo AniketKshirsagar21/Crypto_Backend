@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "alert": "^5.1.2",
     "bootstrap": "^5.2.3",
